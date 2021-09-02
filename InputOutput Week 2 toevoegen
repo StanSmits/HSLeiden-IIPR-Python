@@ -1,0 +1,1 @@
+telefoonLijst = telefoonLijst = open("Python Programming/telefoonLijst.txt", "r")
